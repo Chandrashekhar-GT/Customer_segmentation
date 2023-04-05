@@ -18,7 +18,7 @@ In this project, we will use a machine learning model to perform customer segmen
 The model is built using a clustering algorithm called K-means clustering. The input to the algorithm is a set of features that describe the transactional behavior of each customer, including recency, frequency, and monetary value. The output is a set of clusters that group together customers with similar transactional behavior.
 
 # Usage
-To use this project, simply run the customer_segmentation.py file. This will load the transactional data and perform RFM analysis using K-means clustering. The output will be a set of customer segments that can be used for targeted marketing campaigns.
+To use this project, simply run the customer_clustering.ipnyb file. This will load the transactional data and perform RFM analysis using K-means clustering. The output will be a set of customer segments that can be used for targeted marketing campaigns.
 
 Conclusion
 In conclusion, this project demonstrates the use of RFM analysis for customer segmentation. By analyzing the transactional behavior of customers using the RFM framework, we can identify valuable segments for targeted marketing campaigns. The machine learning model built in this project can be used for a variety of applications, including customer segmentation, customer profiling, and customer retention.
